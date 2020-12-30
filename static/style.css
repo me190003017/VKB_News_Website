@@ -1,0 +1,17 @@
+body{
+    background-color:#f3f7f7;
+}
+.shadow{
+    box-shadow: 0 6px 16px 0 rgba(0,0,0,.2);
+    border: none;
+    padding-top:20px ;
+}
+.newstype{
+    background-color:  white;
+}
+.clr{
+    color: black;
+}
+.clrs{
+    color: white;
+}
